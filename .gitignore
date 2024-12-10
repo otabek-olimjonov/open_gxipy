@@ -1,4 +1,5 @@
+build/*
+dist/*
+iai_gxipy.egg-info/*
+gxipy/__pycache_/*
 .venv
-build
-dist
-open_gxipy.egg-info
