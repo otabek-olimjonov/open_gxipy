@@ -13,7 +13,8 @@ setuptools.setup(
     url="https://github.com/otabek-olimjonov/open_gxipy",
     packages=["gxipy"],
     install_requires=[
-        "numpy"
+        "numpy",
+        "Pillow"
         ],
     license="MIT",
     classifiers=[
